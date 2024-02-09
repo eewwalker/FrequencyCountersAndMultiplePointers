@@ -59,7 +59,3 @@ function canConstructWord(word, letters) {
 
 
 
-
-/**
- *
- */
